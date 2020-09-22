@@ -1,0 +1,4 @@
+php
+ssh
+curl
+unzip
